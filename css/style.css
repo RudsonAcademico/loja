@@ -4,7 +4,7 @@
 .ancora{
     text-align: center;
 }
-p{
+.placa{
     text-align: center;
 }
 img{
@@ -12,4 +12,8 @@ img{
 }
 .coin{
     width: 4%;
+}
+.desconto{
+    color: red;
+    
 }
