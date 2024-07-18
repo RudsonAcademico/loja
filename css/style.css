@@ -4,6 +4,10 @@
 .ancora{
     text-align: center;
 }
+a{
+    color: #ff0f0f;
+    font-family: Arial;
+}
 .placa{
     text-align: center;
 }
@@ -19,4 +23,8 @@ img{
 }
 .iron{
     width: 5%;
+}
+body{
+    background-size: 200px 1500px;
+    background-image: url("../imgs/fundo.jpg");
 }
