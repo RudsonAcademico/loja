@@ -1,3 +1,13 @@
+h1{
+    color: #80ffd4;
+}
+p{
+    color: #ffffff;
+}
+span{
+    color: #ffffff;
+}
+
 .cabecalho{
     text-align: center;
 }
@@ -5,7 +15,7 @@
     text-align: center;
 }
 a{
-    color: rgb(0, 0, 0);
+    color: rgb(71, 221, 26);
     font-family: Arial;
 }
 .placa{
@@ -25,6 +35,6 @@ img{
     width: 5%;
 }
 body{
-    background-size: 200px 1500px;
+    background-repeat: repeat;
     background-image: url("../imgs/fundo.jpg");
 }
